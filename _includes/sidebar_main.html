@@ -1,0 +1,68 @@
+<div class="sidebar-content" id="sidebar">
+  <div class="author-avatar">
+    <img src="{{ site.relurl }}/assets/img/author_avatar.jpg" alt="yifantastic">
+  </div>
+
+  <div class="brief-intro">
+    <div class="author-name">
+      {{ site.author }}
+    </div>
+    <div class="author-bio">
+      {{ site.description }}
+    </div>
+  </div>
+
+  <hr />
+
+  <nav class="site-state">
+    <div class="site-state-item">
+      <a href="{{ site.relurl }}/archives.html">
+        <span class="site-state-item-count">{{ site.posts | size }}</span>
+        <span>Posts</span>
+      </a>
+    </div>
+    <div class="site-state-item">
+      <a href="{{ site.relurl }}/categories.html">
+        <span class="site-state-item-count">{{ site.categories.size }}</span>
+        <span>Categories</span>
+      </a>
+    </div>
+    <div class="site-state-item">
+      <a href="{{ site.relurl }}/tags.html">
+        <span class="site-state-item-count">{{ site.tags.size }}</span>
+        <span>Tags</span>
+      </a>
+    </div>
+  </nav>
+
+  <hr />
+
+  <nav class="category-list list-group">
+    <h3 class="sidebar-title">Categories</h3>
+    <ul class="list-group">
+    {% for category in site.categories %}
+      <li class="list-group-item">
+        <a href="{{ site.relurl }}/categories.html#{{ category[0] }}">{{ category[0] }}</a>
+        <span class="badge">{{ category[1].size }}</span>
+      </li>
+    {% endfor %}
+    </ul>
+  </nav>
+
+  <hr />
+
+  <nav class="tags-list">
+    <h3 class="sidebar-title">Tags</h3>
+    <ul class="list-group">
+    {% for tag in site.tags %}
+      <li class="list-group-item">
+        <a href="{{ site.relurl }}/tags.html#{{ tag[0] }}"> {{ tag[0] }}</a>
+        <span class="badge">{{ tag[1].size }}</span>
+      </li>
+    {% endfor %}
+    </ul>
+  </nav>
+
+  <hr />
+
+</div>
