@@ -1,0 +1,131 @@
+---
+layout: post
+title:  "2019 Todo List"
+date:   2019-03-05 
+categories: Blog
+tags: [Blog]
+---
+
+It's March now thus one sixth of 2019 has passed. I just started to list my 2019 resolution. But it's never to late to start than never, right? <!-- more -->
+
+## Categories
+
+### Health
+
+- **Regular Work Out at least 4 times a week** 
+
+  I definitely feel the difference of my body compare with my age of 25. Metabolism slows down that I could not fit the same when I eat same amount. So keeping going to the gym and do more activities is necessary. I am doing good by far this year :)
+
+- **Control Calorie Intake**
+
+  I didn’t realize how much calories I take in every day. I start using some app on my phone to keep track of everything I eat. It shocked me at first two days because I never knew I am taking 4000 Kcal without any control. It is way too much for my BMI. I have snacks at hand at work place, so between two meals I used to have add on nuts/drinks/sweets etc. After using the app to track it, I lower down those unhealthy snacks and feels more energetic every day. Too much carbohydrate casues me sleepy and tired. 
+
+- **Stop Stress Eating**
+
+  I know I have this problem of stress eating, not necessary stress, but whenever I am down or unhappy or depressed or angry. Sugar cheers me up significantly. I always crave for dessert and all other sweets. It’s been years and it’s hard to get rid of it easily. I hope this year I can gradually find some better way than eating sugar when I am down. If something else cheers me up efficiently as sugar does, then why not substitute. 
+
+
+### Work&Study
+
+- **CS Fundamentals**
+
+  I gave back most of fundamentals that I learned to the professors who taught me. I have extremely poor and short memory that nothing left on my brain unless I use it a lot. I need to start over for those fundamentals and try to completely understand the concepts with real life scenarios where the concepts applied. I always believe that if something belongs to me completely, I don’t need to use memory to memorize it, it should be part of me, just like 1+1 and I always know the answers, not by memorization. I want to rebuild a system of fundamentals in my brain in 2019. 
+
+- **Frontend Knowledge**
+
+  I realize my exceeding deficient in frontend knowledge. So start now in 2019, get to know more about it. 
+
+- **Algorithm&Leetcode**
+
+  It is a must for every software developer to master this, no matter whether your work is anything related or not. This is a big goal for me as Leetcode now have 1k questions. I do want to practice most of it in the end of 2019. So I can start interview for next job in 2020.
+
+- **English&Communication**
+
+  I don't talk much at work or outside work, so in conclusion, I don't talk much everyday overall. This is not good, I am losing communication ability as well as vocabulary (If I don’t use it I forget it). I feel I should improve my English but haven’t figure out a way yet, but still put on this to do list so that I don’t leave it out. If anyone have a good app or good way, I’ll really appreciate it If you could leave me a comment. 
+
+- **Important Things Come First**
+
+  I wake up early and usually have two to three hours before heading to work. But I wasted on cooking breakfast or watching YouTube or even doing laundry. (What I was thinking doing laundry in the most bright and energetic morning??) Then later on in the evening, after long day and workout, I wanted to learn something that isn’t work related, I wouldn’t have the mind left. I know that important things should come first, but never have the self-control to achieve it. This is almost on every year’s resolution list. I hope 2019 can make a difference. (ง •̀_•́)ง
+
+- **Really Know What I Am Doing**
+
+  It’s a bad habit that I use quite plenty of frameworks or technologies or read documents, but all without thorough understanding. Try to go deeper and understand related topics, really get to know what I am using and why using it. 
+
+- **Take Notes**
+
+  Due to my poor memory, taking notes is trully important. After all many a little make a mickle. That's why I started this gitpage initially. Keep going! 
+
+
+### Family&Friends
+
+- **Video chat device**
+
+  Buy a good video chat device for both my parents and grandparents. I haven't figured which on to buy yet but I definetely want them to be able video chat with me in a more convenient way. 
+
+- **Spend more time and talk more with my parents**
+
+  I am used to do everything by myself. I don't really share my life with them since high school. We do love each other but we have separate life. Now I am pretty settled and they don’t care much about their work, maybe we can travel or live together more often.
+
+- **Talk to friends**
+
+  I am not good at keeping any close relationships with anyone. I don't talk to people much, neither to friends. I hope I can move out my comfort zone and reach out to friends more often.
+
+
+### Hobbies&Others
+
+- **PADI**
+
+  Already registered and finished online courses, need to wait until weather getting warmer to explore the whole new world in open water. 
+
+- **Violin**
+
+  I played the violin for quite a while when I was young. However, after junior in college, I never touched it anymore. Now I sometimes play some soft music at home and enjoy it, and I hope I can pick up the skills soon and find some orchestra groups to play with. 
+
+- **Travel Videos & Photos**
+
+  I travel a lot every year, recorded with photos and videos, but never really organize it or edit it to make a good memory album. There are huge amount of related information online and step by step videos that I can learn from. Hopefully I start this in 2019 and create some good videos. 
+
+- **Tarot**
+
+  Somehow, in a weird way, to some extent, my unspeakable secret that I can’t believe myself is attracted to Tarot. I bought some tarot books and start learning it in 2019. 
+
+- **Minimalist Life**
+
+  I got considerable amount of stuff at home, some of them I barely touch it or dig it out. Find a way to get rid of those and stop buying unnecessary things. 
+
+
+### Booklist
+
+- **Tech list**
+
+	* Computer Systems: A Programmer's Perspective by Randal E. Bryant and David R. O'Hallaron
+	* Structure and Interpretation of Computer Programs by Gerald Jay Sussman and Hal Abelson
+	* Agile Principles, Patterns, and Practices in C# by Micah Martin and Robert Cecil Martin
+	* Mastering Regular Expressions Powerful Techniques for Perl and Other Tools by Jeffrey Friedl
+	* CLR VIA C# by Jeffrey Richter
+	* Programming Pearls by Jon Bentley
+	* Programming Collective Intelligence by Toby Segaran
+
+
+- **Non Tech list**
+
+	* The Grief Recovery Handbook by John W James and Russell Friedman
+	* Miracles of the Namiya General Store by Keigo Higashino
+	* Courage to be Disliked by Fumitake Koga and Ichiro Kishimi
+	* The Yellow Eyes of Crocodiles by Katherine Pancol
+	* The Idiot by Fyodor Dostoyevsky 白痴
+	* Novel 11, Book 18 by Dag Solstad  
+	* Nocturnes by Kazuo Ishiguro 小夜曲
+	* The Unconsoled by Kazuo Ishiguro 无可慰藉
+	* A Pale View of Hills by Kazuo Ishiguro 远山淡影
+	* The Tarot Revealed: A Beginner's Guide by Paul Fenton-Smith 
+	* Learning the Tarot: A Tarot Book for Beginners by Joan Bunning  
+	* Seventy-Eight Degrees of Wisdom: A Book of Tarot by Rachel Pollack
+    * Shark's Fin and Sichuan Pepper: A Sweet-Sour Memoir of Eating in China by Fuchsia Dunlop 鱼翅与花椒
+    * 撒哈拉的故事 作者: 三毛 
+	* 幸得诸君慰平生 作者: 故园风雨前 
+	* 一句顶一万句 作者: 刘震云 
+	* 一地鸡毛 作者: 刘震云
+	* 见过爱情的人 作者: 穆熙妍 
+
+

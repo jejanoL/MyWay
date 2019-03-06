@@ -31,11 +31,11 @@ title: Home
         </div>
 
         <div class="post-excerpt">
-          {{ post.excerpt }}
+           {{ post.excerpt }}
         </div>
 
         <div class="post-readmore">
-          <a class="read-more" href="{{ post.url }}">Read More</a>
+          <a class="read-more" href="{{ site.relurl }}{{ post.url }}">Read More</a>
         </div>
       </article>
       <hr />
@@ -45,7 +45,7 @@ title: Home
       <nav aria-label="Page navigation">
         <ul class="pagination">
           {% if paginator.previous_page %}
-            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-outline">&laquo;</a></li>
           {% else %}
             <li><span>&laquo;</span></li>
           {% endif %}
@@ -54,15 +54,15 @@ title: Home
             {% if page == paginator.page %}
               <li class="active"><a>{{ page }}</a></li>
             {% elsif page == 1 %}
-              <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+              <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="active btn btn-outline">{{ page }}</a>
               </li>
             {% else %}
-              <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+              <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}"  class="btn btn-outline">{{ page }}</a></li>
             {% endif %}
           {% endfor %}
 
           {% if paginator.next_page %}
-            <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+            <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-outline">&raquo;</a></li>
           {% else %}
             <li><span>&raquo;</span></li>
           {% endif %}
